@@ -1,5 +1,5 @@
 # VB-.Net-Programs
-This program allows anyone with a Arduino UNO and an Adafruit PN532 shield in IC2 mode to update all pages of an EMU tag.
+This program was written in VB .net 2012. It allows anyone with a Arduino UNO and an Adafruit PN532 shield in IC2 mode to update all pages of an EMU tag.
 
 This program requires 2010 MS Access runtime in order to save/retrieve data from the Access database. Also a prerequisit to running this program you must already have installed ot unzipped a copy of the Arduino software that includes the "arvdude.exe" file. This file is used to load the included HEX file into the Arduino.
 
